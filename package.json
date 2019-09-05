@@ -1,6 +1,6 @@
 {
   "name": "@teamgantt/pipeline-lambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for lambdas that execute in the context of a CodePipeline",
   "main": "index.js",
   "keywords": [
