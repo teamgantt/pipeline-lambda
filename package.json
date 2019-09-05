@@ -1,0 +1,18 @@
+{
+  "name": "@teamgantt/pipeline-lambda",
+  "version": "1.0.0",
+  "description": "Utilities for lambdas that execute in the context of a CodePipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "codepipeline"
+  ],
+  "author": "TeamGantt",
+  "license": "MIT",
+  "peerDependencies": {
+    "aws-sdk": "^2.518.0"
+  }
+}
